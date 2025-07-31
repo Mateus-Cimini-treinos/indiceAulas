@@ -21,10 +21,10 @@
 
 ## Índice
 
-- 00:00 - Introdução  
-- 01:01 - Apresentação dos convidados  
-- 10:30 - O que é inteligência? E inteligência artificial?  
-- 16:45 - Quando nasceu a ideia de inteligência artificial?  
+- 00:00 - ......
+- 01:01 - ....
+- 10:30 - .....
+- 16:45 - ......  
 
 ---
 
