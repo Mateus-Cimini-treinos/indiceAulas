@@ -21,25 +21,25 @@
 
 ## Índice
 
-00:00 - Introdução.
-00:35 - Quem é Akita?
-02:03 - Impacto de Fábio Akita na bolha dev .
-02:23 - História de devs.
-04:54 - Pense no futuro.
-07:48 - Anotar tudo que aprende .
-09:50 - Início da programação nos anos 2000.
-16:30 - Todos nomes grandes começaram pequenos!
-19:30 - Como baixavam arquivos nos anos 90.
-21:20 - O que um programador realmente precisa saber!
-24:00 - Quando a Apple abriu a loja de aplicativos e programadores que dominavam object-C se deram bem !
-26:45 - Como surfar uma bolha dev?
-35:45 - Vc pode estar atrasado para a bolha atual mas está adiantado para a próxima!
-40:30 - Dica para quem ainda não conseguiu o primeiro emprego na programação.
-47:15 - Sempre existe oportunidades!
-49:50 - Diferença de quem sabe e não sabe os fundamentos .
-54:40 - Como uma nova tecnologia é criada?
-01:00:40 - Cuidado com oportunistas.
-01:03:10 - Novas tecnologias não são óbvias!
+-00:00 - Introdução.
+-00:35 - Quem é Akita?
+-02:03 - Impacto de Fábio Akita na bolha dev .
+-02:23 - História de devs.
+-04:54 - Pense no futuro.
+-07:48 - Anotar tudo que aprende .
+-09:50 - Início da programação nos anos 2000.
+-16:30 - Todos nomes grandes começaram pequenos!
+-19:30 - Como baixavam arquivos nos anos 90.
+-21:20 - O que um programador realmente precisa saber!
+-24:00 - Quando a Apple abriu a loja de aplicativos e programadores que dominavam object-C se deram bem !
+-26:45 - Como surfar uma bolha dev?
+-35:45 - Vc pode estar atrasado para a bolha atual mas está adiantado para a próxima!
+-40:30 - Dica para quem ainda não conseguiu o primeiro emprego na programação.
+-47:15 - Sempre existe oportunidades!
+-49:50 - Diferença de quem sabe e não sabe os fundamentos .
+-54:40 - Como uma nova tecnologia é criada?
+-01:00:40 - Cuidado com oportunistas.
+-01:03:10 - Novas tecnologias não são óbvias!
 ---
 
 ## Notas Extras / Insights Pessoais
