@@ -2,13 +2,13 @@
 # Documentação da Aula
 ## Cabeçalho
 
-- **Plataforma:*Youtobe*  
-- **Data:*12/12/2022*  
-- **Duração total:*01:07:17*  
-- **Tema principal:*Carreira em programção e Historias de pessoas que envolve programação*  
-- **Participantes:*Fabio Akita,*  
-- **Link da aula:*[Fabio Akita COMECE PELO BASICO](https://youtu.be/C3tiSE1QJQ4?si=JAWFat0kJDq5cYEx)*  
-- **Tags:** `#fabioAkita` `#podcast` `#carreira` `#bolhadaprogramação`
+- **Plataforma:Youtobe**  
+- **Data:12/12/2022**
+- **Duração total:01:07:17**  
+- **Tema principal:Carreira em programção e Historias de pessoas que envolve programação**  
+- **Participantes:Fabio Akita,**  
+- **Link da aula:[Fabio Akita COMECE PELO BASICO](https://youtu.be/C3tiSE1QJQ4?si=JAWFat0kJDq5cYEx)**  
+- **Tags: `#fabioAkita` `#podcast` `#carreira` `#bolhadaprogramação`**
 
 
 ---
