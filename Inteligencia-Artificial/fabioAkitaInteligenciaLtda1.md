@@ -2,12 +2,12 @@
 # Documentação da Aula  
 ## Cabeçalho  
   
-- **Plataforma:**Youtobe    
-- **Data:**25/06/2024    
-- **Duração total:**02:46:06    
-- **Tema principal:**Inteligencia Artificial e historia da computação    
-- **Participantes:**Fabio Akita e Vilela    
-- **Link da aula:**[  
+- **Plataforma:** Youtobe    
+- **Data:** 25/06/2024    
+- **Duração total:** 02:46:06    
+- **Tema principal:** Inteligencia Artificial e historia da computação    
+- **Participantes:** Fabio Akita e Vilela    
+- **Link da aula:** [  
 DA INVENÇÃO DO COMPUTADOR À INTELIGÊNCIA ARTIFICIAL - FÁBIO AKITA -](https://www.youtube.com/live/jVxzpiDJ9Qk?si=Myf-UdiapchTHmj4)    
 - **Tags:** `#Fabio Akita` `#Podcast` `#Inteligencia Artificial` `#carreira` `#historia da computação` `#bolhatech`  
   
