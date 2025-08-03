@@ -71,6 +71,5 @@
 ## Tarefas ou Estudos Recomendados (se aplicável)
 
 - [ ] Criar um programa que consegue inverter uma matrix 3X3
-- [ ] Testar ferramenta Y
-- [ ] Pesquisar mais sobre Z
--
+
+
