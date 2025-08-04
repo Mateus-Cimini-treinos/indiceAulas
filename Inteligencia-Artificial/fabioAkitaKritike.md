@@ -1,4 +1,4 @@
- ![Video](https://img.youtube.com/vi/rTjuGAkRj7A&t=2778s/maxresdefault.jpg)
+ ![Video](https://img.youtube.com/vi/rTjuGAkRj7A/maxresdefault.jpg)
 
 
 # Documentação da Aula
