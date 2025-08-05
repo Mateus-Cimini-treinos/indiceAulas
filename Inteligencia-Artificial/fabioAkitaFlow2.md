@@ -114,25 +114,10 @@
     - 04:39:00 - Finalização 
 
 
-
----
-
-## Notas Extras / Insights Pessoais
-
-> (Use este espaço livre para anotar observações, dúvidas, links úteis, comentários pessoais ou tópicos para revisar depois.)
-
----
-
-## Recursos Citados
-
-- [Nome do recurso 1](link)
-- [Nome do recurso 2](link)
-
 ---
 
 ## Tarefas ou Estudos Recomendados
 
 - [ ] Treinar uma mini rede neural super simples para passar em uma fase de um jogo por exemplo super mario.
-- [ ] Testar ferramenta Y
-- [ ] Pesquisar mais sobre Z
--
+
+
