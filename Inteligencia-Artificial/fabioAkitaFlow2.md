@@ -81,8 +81,9 @@
     - 02:28:42 - O mundo vai acabar todo ano.
     - 02:29:59 - Usinas nucleares!
     - 02:30:56 - Computadores são altamente eneficientes.
-    - 02:33:15 - Em que teto a IA vai bater primeiro?  
-    - 02:
+    - 02:33:15 - Em que teto a IA vai bater primeiro? falta de informação ou falta de energia? 
+    - 02:34:04 - Problema de falta de informação no treinamento de redes neurais.  
+    - 02:40:41 - Gasto do meme da 'foto de ia do estudio ghibli'
 
     
 
