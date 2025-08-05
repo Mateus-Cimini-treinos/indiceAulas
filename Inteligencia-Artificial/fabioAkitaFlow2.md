@@ -83,10 +83,35 @@
     - 02:30:56 - Computadores são altamente eneficientes.
     - 02:33:15 - Em que teto a IA vai bater primeiro? falta de informação ou falta de energia? 
     - 02:34:04 - Problema de falta de informação no treinamento de redes neurais.  
-    - 02:40:41 - Gasto do meme da 'foto de ia do estudio ghibli'
-
-    
-
+    - 02:40:41 - Gasto do meme da 'foto de ia do estudio ghibli' e faturamento X lucro da OpenIA
+    - 02:42:40 - DeepSeek, verdade por tras.
+    - 02:46:40 - Coisas ridiculas que a IA faz com as mãos nas costas.
+    - 02:51:00 - Junior não se mexe no que não foi chamado.
+    - 02:52:50 - Cada modelo de inteligencia artificial serve para fazer 1 coisa.  
+    - 02:55:25 - Mais papo sobre antropomofismo na IA!  
+    - 02:59:00 - Problema de informação erradas que as IA respodem.
+    - 03:01:40 - Genz Usando ChatGpt com 'life advisor'.
+    - 03:03:22 - Apple estava atras no mercado de IA, então decidiu falar a verdade.
+    - 03:07:40 - Não escutem cegamente os 'gurus' de marcas como 'Meta,OpenIA,Nvidia,Anthropic.
+    - 03:09:20 - LLMs é uma lootboxes. 
+    - 03:11:25 - Historia do 'ChatGpt que chantageou o pesquisador' #aconteceumuito !!  
+    - 03:12:28 - Mais papo de antropomofismo, IA não pensa, não raciocina, não tem sentimentos, etc...  
+    - 03:14:10 - Essas tecnologias são inspiradas no que o celebro faz, é a mesma coisa do pé de pato de natação que é inspirado no pé do pato 
+    - 03:21:50 - Trunkando modelos de IA para criar mais modelos e deixar o modelo mais leve para rodar em dispositivos mais fracos
+    - 03:33:45 - Proximo salto das IA vai ser com agentes.
+    - 03:37:00 - O vibe coding vai gerar muito trabalho para quem programa de verdade.
+    - 03:39:45 - Usar Ia deixa a gente mais burro? 
+    - 03:44:00 - Bolha das startup, dev profissão do futuro, vendedor de olho de cobra, pandemia, iA e  layoffs em massa
+    - 03:51:30 - Quem vende que IA vai substituir o ser humano? A IA vai ser uma ferramenta para o bom profissional, para o profissional ruim nem precisaria da IA para substituilo.
+    - 03:56:15 - Imagem YAG que custou U$6.5BI !
+    - 04:05:50 - Esse é o cara que vai gerar o inverno de IA !
+    - 04:09:50 - Não vai virar Skynet! Os sistemas nem estao conectados!
+    - 04:12:55 - Fabio AKita vai voltar para o Youtobe? E codeminer42.  
+    - 04:21:00 - Canais que o Fabio Akita recomenda.  
+    - 04:22:40 - Usar inteligencia artificial para aprender.  
+    - 04:26:40 - Euclides e os 5 postulados.  
+    - 04:31:00 - UM programador precisa ter curiosidade para envoluir de verdade e se destacar.
+    - 04:39:00 - Finalização 
 
 
 
