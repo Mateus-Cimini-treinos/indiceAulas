@@ -41,25 +41,22 @@
 - 50:40 - Qunado as IA vai nos substituir?
 - 51:40 - Maior problema das IA.  
 - 01:05:20 - Oque podemos fazer daqui pra frente?
-
+- 01:15:25 - O quanto a gente programa X o quanto a porpria IDE automatiza?  
+- 01:30:10 - Apenas o codigo não gera dinheiro.  
+- 01:36:40 - De aonde veio o chat-GPT.  
+- 01:45:05 - Como ter mais valor? (diferencial) 
+- 01:50:00 - IA é uma bolha?  
+- 01:54:15 - Aonde usar IA?  
+- 02:00:10 - Vantagens de usar IA em vez de humanos.  
+- 02:07:00 - Para aonde estamos indo?  
+- 02:16:35 - A dor faz a gente evoluir.  
+- 02:18:35 - Como se preparar para o futuro.  
+- 02:21:50 - Dica para quem esta começando (apenas crie,criar oq? fds, apenas crie, la na frente tudo vai se conectar).  
+- 02:28:00 - Dica para quem ja sabe programar (crie um projeto que te gere receita, nem que seja 1 centavo em ADS).  
+- 02:29:40 - Dica 3, depois de criar o projeto (faça uma venda com seus produtos/projetos).  
+- 02:32:16 - Dica 4, reduzir custos.  
+- 02:33:56 - Dica para quem não tem emprego (entenda as empresas que voce esta aplicando).  
+- 02:35:35 - Dica para todo mundo (aprenda a se comunicar).  
+- 02:39:28 - Não deixe o chatGPT te limitar e limitar sua evolução.  
 ---
 
-## Notas Extras / Insights Pessoais
-
-> (Use este espaço livre para anotar observações, dúvidas, links úteis, comentários pessoais ou tópicos para revisar depois.)
-
----
-
-## Recursos Citados (se houver)
-
-- [Nome do recurso 1](link)
-- [Nome do recurso 2](link)
-
----
-
-## Tarefas ou Estudos Recomendados (se aplicável)
-
-- [ ] Rever o conceito de X
-- [ ] Testar ferramenta Y
-- [ ] Pesquisar mais sobre Z
--
