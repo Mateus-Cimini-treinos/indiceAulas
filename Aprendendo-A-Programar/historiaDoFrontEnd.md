@@ -79,7 +79,7 @@
 ## Recursos Citados
 
 - [the true story of the internet discovery channel](https://archive.org/details/DownloadTrueStoryInternet/Download_-_The_True_Story_of_the_Internet_-1-_Browser_Wars.avi)
-- [Nome do recurso 2](link)
+
 
 ---
 
@@ -87,5 +87,5 @@
 
 - [ ] Estudar regular expression (REGEX)
 - [ ] Assitir ao 'the true story of the internet discovery channel'
-- [ ] Pesquisar mais sobre Z
--
+
+
