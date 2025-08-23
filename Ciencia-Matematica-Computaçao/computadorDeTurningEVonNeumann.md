@@ -47,13 +47,13 @@
 
 ---
 
-## Recursos Citados (se houver)
+## Recursos Citados
 
 - [Turing Machine Visualization](https://turingmachine.io/) teste pratico de maquina de Turing
 
 ---
 
-## Tarefas ou Estudos Recomendados (se aplicável)
+## Tarefas ou Estudos Recomendados
 
 - [ ] Fazer um teste pratico no site 'Turing Machine Visualization'
 - [ ] Pesquisar sobre 'computable sequences'
