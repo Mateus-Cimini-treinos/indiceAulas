@@ -16,10 +16,10 @@
 
 ## Resumo da Aula
 
-> Nessa aula fabio akita conta a historia dos computadores.  
-> Explica porque calculadoras e maquinas de escrever não são computadores.
-> Papel de Von Neumann e Alan Turing em toda essa historia.
-> Oque é uma maquina de Turing?  
+> Nessa aula fabio akita conta a historia dos computadores.    
+> Explica porque calculadoras e maquinas de escrever não são computadores.   
+> Papel de Von Neumann e Alan Turing em toda essa historia.   
+> Oque é uma maquina de Turing?    
 
 ---
 
